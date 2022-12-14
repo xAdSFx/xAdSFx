@@ -1,8 +1,5 @@
-![Intro GIF](intro.gif)
-
-### 👋 Hi I'm André
-
-- 🌱 I’m current cs student at **Universidade de Aveiro**
+## André Fernandes
+CS student at **Universidade de Aveiro**
 
 ### 📐 Languages and Tools
 
@@ -16,6 +13,7 @@
 <img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
 <img align="left" height="32px" width="32px" alt="GitHub logo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG40.png&f=1&nofb=1&ipt=c81042ac095143e270f10267eb07e26d0bc942251669167666932482e922b4c0&ipo=images">
 
+<br/>
 <br/>
 
 ### ⭐ GitHub Stats
